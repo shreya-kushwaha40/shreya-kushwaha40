@@ -1,5 +1,5 @@
 [![MasterHead](https://static.vecteezy.com/system/resources/thumbnails/011/231/815/small/night-shining-starry-sky-blue-space-background-with-stars-space-beautiful-night-sky-free-vector.jpg)](https://shreya-kushwaha40.io)
-<h1 align="center">Hi 👋, I'm shreya-kushwaha40</h1>
+<h1 align="center">Hi 👋, I'm Shreya Kushwaha</h1>
 <h3 align="center">Passionate Full Stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreya-kushwaha40&label=Profile%20views&color=0e75b6&style=flat" alt="shreya-kushwaha40" /> </p>
