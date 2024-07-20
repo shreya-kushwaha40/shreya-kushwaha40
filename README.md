@@ -1,4 +1,4 @@
-[![MasterHead](https://quotefancy.com/media/wallpaper/3840x2160/8120700-eat-sleep-code-repeat-Wallpaper.jpg)](https://shreya-kushwaha40.io)
+[![MasterHead](https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDI0LTAyL3Jhd3BpeGVsb2ZmaWNlMTVfYV9taW5pbWFsX2FuZF9sZXNzX2RldGFpbF9pbGx1c3RyYXRpb25fb2ZfYV9sb19hN2Y2YzYzZS05NzQxLTRjMzMtODRjZC1hNmEwNDc1ZTQ3NTBfMS5qcGc.jpg)](https://shreya-kushwaha40.io)
 <h1 align="center">Hi 👋, I'm Shreya Kushwaha</h1>
 <h3 align="center">Passionate Full Stack Developer</h3>
 
