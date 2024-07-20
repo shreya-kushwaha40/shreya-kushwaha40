@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Shreya Kushwaha</h1>
 <h3 align="center">Passionate Full Stack Developer</h3>
 
-<p align="left" backgroundColor="white"> <img src="https://komarev.com/ghpvc/?username=shreya-kushwaha40&label=Profile%20views&color=0e75b6&style=flat" alt="shreya-kushwaha40" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shreya-kushwaha40&label=Profile%20views&color=0e75b6&style=flat" alt="shreya-kushwaha40" /> </p>
 
 - 🌱 I’m currently learning **Full Stack Development**
 
