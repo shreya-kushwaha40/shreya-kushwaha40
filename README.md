@@ -1,4 +1,4 @@
-[![MasterHead]([https://static.vecteezy.com/system/resources/thumbnails/011/231/815/small/night-shining-starry-sky-blue-space-background-with-stars-space-beautiful-night-sky-free-vector.jpg](https://i.gifer.com/TQ16.gif))](https://shreya-kushwaha40.io)
+[![MasterHead](https://t4.ftcdn.net/jpg/06/48/46/55/360_F_648465556_DYzkWnLErn5M2KjJwLx8uKkDMxxQ6paA.jpg)](https://shreya-kushwaha40.io)
 <h1 align="center">Hi 👋, I'm Shreya Kushwaha</h1>
 <h3 align="center">Passionate Full Stack Developer</h3>
 
