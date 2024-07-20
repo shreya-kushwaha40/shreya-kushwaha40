@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreya-kushwaha40&label=Profile%20views&color=0e75b6&style=flat" alt="shreya-kushwaha40" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shreya-kushwaha40" alt="shreya-kushwaha40" /></a> </p>
-
 - 🌱 I’m currently learning **Full Stack Development**
 
 - 💬 Ask me about **sass,bootstrap,chakraui,javascript,react,nodejs**
